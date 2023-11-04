@@ -1,16 +1,12 @@
 # clima
 
-A new Flutter project.
+Flutter Application gets the weather of your current location and selected cities
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) open https://openweathermap.org/
+2) create an account
+3) create an api key
+4) add this key to the top of the constants.dart file
+![image](https://github.com/hamzaayman216/Climate-Project/assets/85422836/988a7d4c-6085-40b4-853a-04bdac981044)
+6) the app is ready to use
